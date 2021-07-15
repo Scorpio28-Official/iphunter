@@ -2,7 +2,8 @@
 <p align="center">
 	<img src="https://i.imgur.com/etHxl1y.jpg" width="600px">
 </p>
-Informática y Hacking © 2020
+
+##### Informática y Hacking © 2020
 
 ### INSTALACIÓN
 
