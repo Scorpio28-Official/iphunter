@@ -26,4 +26,4 @@ $ pip install -r requirements.txt
 $ python3 iphunter.py
 ```
 
-### Informática y Hacking © 2020
+### Informátic in Termux
