@@ -26,4 +26,4 @@ $ pip install -r requirements.txt
 $ python3 iphunter.py
 ```
 
-### Informátic in Termux
+### Informatic in Termux
